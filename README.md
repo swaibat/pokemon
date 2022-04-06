@@ -1,7 +1,5 @@
 # Pokemon
 
-
-
 ## Table of Contents
 - [Solution](#Solution)
 - [Installation](#Installation)
